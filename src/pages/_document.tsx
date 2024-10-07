@@ -22,7 +22,7 @@ export default function Document() {
           content="icons/pwa-512x512.png"
         />
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="description" content="Murrotal online by Muhamamd Thoriq"
+        <meta name="description" content="Murrotal online by Muhamamd Thoriq" />
         <meta name="apple-mobile-web-app-status-bar-style" content="default" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="mobile-web-app-capable" content="yes" />
